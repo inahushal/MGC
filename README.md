@@ -163,7 +163,9 @@ Research and analysis on governance, economic policies and regional strategic de
 Stay informed about the Maldivian policy landscape, political economy and geopolitics through our updates, current affairs reports and analyses.
 </p>
 
-<button>Read Strategic Outlook</button>
+<a href="https://nahushal.substack.com/" target="_blank">
+  <button>Read Strategic Outlook</button>
+</a>
 
 </section>
 
